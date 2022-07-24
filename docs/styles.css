@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  font-family: sans-serif;
+  font-family: "Bebas Neue", cursive;
+  font-size: 22px;
+  color: #444;
+  background-color: #fcfcfc;
+  text-align: center;
+}
