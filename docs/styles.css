@@ -12,3 +12,27 @@ body {
   background-color: #fcfcfc;
   text-align: center;
 }
+
+h1 {
+  font-size: 6em;
+}
+
+.dolls {
+  color: #ff0094;
+}
+
+.souls {
+  color: #3600ff;
+}
+
+a,
+a:hover,
+a:active,
+a:visited,
+a:focus {
+  color: #3600ff;
+}
+
+p {
+  font-size: 28px;
+}
